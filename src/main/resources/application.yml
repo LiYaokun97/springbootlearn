@@ -1,1 +1,6 @@
-
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test0
+    username: lyk
+    password: LyK2023@1997
+    driver-class-name: com.mysql.cj.jdbc.Driver
